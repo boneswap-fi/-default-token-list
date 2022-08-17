@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Dummy Token",
+    "address": "0xffffffffffffffffffffffffffffffffffffffff",
+    "symbol": "DUMMY",
+    "decimals": 18,
+    "chainId": 568,
+    "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0xffffffffffffffffffffffffffffffffffffffff/logo.png"
+  }
+]
