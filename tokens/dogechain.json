@@ -1,5 +1,13 @@
 [
   {
+    "name": "BONE",
+    "address": "0x1336a51a3aE667c3EA50aD7cf9979D134cF32Cf0",
+    "symbol": "BONE",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0x1336a51a3aE667c3EA50aD7cf9979D134cF32Cf0/logo.png"
+  },
+  {
     "name": "Yodeswap Token",
     "address": "0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01",
     "symbol": "YODE",
