@@ -1,6 +1,6 @@
 {
   "name": "@boneswapfi/default-token-list",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "◦ The BoneSwap default token list",
   "main": "build/boneswap-default.tokenlist.json",
   "scripts": {
