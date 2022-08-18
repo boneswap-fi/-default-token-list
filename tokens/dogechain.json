@@ -27,7 +27,7 @@
     "name": "USDC Token",
     "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
     "symbol": "USDC",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 2000,
     "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0x765277EebeCA2e31912C9946eAe1021199B39C61/logo.png"
   },
@@ -51,7 +51,7 @@
     "name": "USDT Token",
     "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
     "symbol": "USDT",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 2000,
     "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png"
   },
