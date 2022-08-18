@@ -1,11 +1,19 @@
 [
   {
-    "name": "BONE",
+    "name": "Bone",
     "address": "0x1336a51a3aE667c3EA50aD7cf9979D134cF32Cf0",
     "symbol": "BONE",
     "decimals": 18,
     "chainId": 2000,
     "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0x1336a51a3aE667c3EA50aD7cf9979D134cF32Cf0/logo.png"
+  },
+  {
+    "name": "MeatBone",
+    "address": "0x09762030148180BB2309364aB8F793443cf09823",
+    "symbol": "xBONE",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0x09762030148180BB2309364aB8F793443cf09823/logo.png"
   },
   {
     "name": "Yodeswap Token",
