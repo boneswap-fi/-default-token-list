@@ -150,5 +150,21 @@
     "decimals": 18,
     "chainId": 2000,
     "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0xa6a7a9c58f5dB6E9C1affb29A9FBD73390b46174/logo.png"
+  },
+  {
+    "name": "NotDoge",
+    "address": "0x8578D10a6ef7d26f5AB014138BCC2e3c49331255",
+    "symbol": "NotDoge",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0x8578D10a6ef7d26f5AB014138BCC2e3c49331255/logo.png"
+  },
+  {
+    "name": "Dogechain",
+    "address": "0x7B4328c127B85369D9f82ca0503B000D09CF9180",
+    "symbol": "DC",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://raw.githubusercontent.com/boneswap-fi/assets/master/blockchains/dogechain/assets/0x7B4328c127B85369D9f82ca0503B000D09CF9180/logo.png"
   }
 ]
